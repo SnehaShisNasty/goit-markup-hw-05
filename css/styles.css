@@ -677,6 +677,7 @@ label {
 }
 .modal-check-icon {
   fill: transparent;
+  display: inline-flex;
 }
 
 .modal-span-icon {
