@@ -706,9 +706,7 @@ label {
   display: flex;
   align-items: center;
 }
-.check-label {
-  display: flex;
-}
+
 .modal-check-input {
   width: 16px;
   height: 16px;
