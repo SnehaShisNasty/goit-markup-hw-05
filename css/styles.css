@@ -458,6 +458,14 @@ label {
   width: 264px;
   height: 40px;
   padding: 8px 16px;
+  font-size: 12px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+  color: #ffffff;
+}
+.footer-input::placeholder {
+  color: #fff;
 }
 .footer-form-fld {
   display: flex;
