@@ -471,12 +471,14 @@ label {
   border-radius: 4px;
   background: #4d5ae5;
   font-size: 16px;
+  font-weight: 500;
   color: #ffffff;
   line-height: 1.5;
   letter-spacing: 0.04em;
   display: flex;
   justify-content: center;
   align-items: center;
+  min-width: 165px;
 }
 .footer-subc-bth .icon {
   margin-left: 16px;
